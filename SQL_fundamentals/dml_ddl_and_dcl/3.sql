@@ -1,0 +1,1 @@
+-- CREATE TABLE is a DDL statement because it is part of defining a structure of data

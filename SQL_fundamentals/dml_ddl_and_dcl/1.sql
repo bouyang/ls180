@@ -1,0 +1,3 @@
+-- The remaining 2 sublanguages are Data Manipulation Language and Data Definition Language. DDL is used to create and modify schema. DML is used to retrieve and modify data inside the databases
+-- CREATE TABLE and ALTER TABLE
+-- INSERT INTO and SELECT

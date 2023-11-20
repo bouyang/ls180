@@ -1,0 +1,1 @@
+-- SELECT is a DML statement. It manipualtes the data but not the structure of the data

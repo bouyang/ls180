@@ -1,0 +1,1 @@
+-- ALTER TABLE is a DDL statement because it modifies the constraint of a table which has to do with the structure
