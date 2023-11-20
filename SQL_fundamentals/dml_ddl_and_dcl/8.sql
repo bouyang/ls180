@@ -1,0 +1,1 @@
+-- DML because DELETE manipulates the data

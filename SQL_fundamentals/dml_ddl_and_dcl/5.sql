@@ -1,0 +1,1 @@
+-- DML because INSERT INTO is used to add data and manipulate it

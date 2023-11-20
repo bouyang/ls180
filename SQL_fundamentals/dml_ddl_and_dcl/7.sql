@@ -1,0 +1,1 @@
+-- None, it is a psql meta-command

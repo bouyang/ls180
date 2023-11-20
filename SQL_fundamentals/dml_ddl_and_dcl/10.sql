@@ -1,0 +1,1 @@
+-- DDL because it is manipulating the structure of the database
